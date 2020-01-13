@@ -1,2 +1,5 @@
 rootProject.name = 'JavaEE_AtelierMVC'
+include 'model'
+include 'view'
+include 'controller'
 
